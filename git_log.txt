@@ -1,3 +1,9 @@
+commit 8cbe37020f133b484a54afa9ca9237075c8be185
+Author: “Andrej <“xmiklosa@stuba.sk”>
+Date:   Thu Oct 17 15:30:40 2024 +0200
+
+    SCRUM-21 kompletne napísaný
+
 commit 04668a2884937aad41c843593fcf3a15b606d23d
 Author: andrejmiklos <84000692+andrejmiklos@users.noreply.github.com>
 Date:   Thu Oct 17 15:26:11 2024 +0200
